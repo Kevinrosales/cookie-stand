@@ -65,6 +65,12 @@ new Store('Seattle Center', 11, 38, 3.7);
 new Store('Capitol Hill', 20, 38, 2.3);
 new Store('Alki', 2, 16, 4.6);
 
+this.makeHeaderRow();
+allStores[0].render();
+allStores[1].render();
+allStores[2].render();
+allStores[3].render();
+allStores[4].render();
 
 
 
@@ -77,14 +83,3 @@ new Store('Alki', 2, 16, 4.6);
 //  pike.findSales() first then 
 //  pike.cookieSales gets the data in the console.
 //  }
-
-// findSales.prototype.render = function() {
-//     var trElement = document.createElement('tr');
-//     var tdElement = document.createElement('td');
-//     tdElement.textContent = this.Store;
-//     trElement.appendChild(tdElement);
-//     tdElement = document.createElement('td');
-//     tdElement.textContent = this.;
-
-
-// }
