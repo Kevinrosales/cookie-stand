@@ -73,13 +73,8 @@ allStores[3].render();
 allStores[4].render();
 
 
-
-// for(i =0; i < 1; i++) { 
-//  newLi = document.createElement('li');
-//  newLi.textContent = this.cookieSales;
-//  postiton.appendChild(newLi);
-//  console.log(this.cookieSales);
-
 //  pike.findSales() first then 
 //  pike.cookieSales gets the data in the console.
 //  }
+
+// retry the name row this weekend 
