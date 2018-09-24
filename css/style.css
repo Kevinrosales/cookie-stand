@@ -1,3 +1,26 @@
 *{
     border: solid black 1px;
+    
 }
+section {
+    margin: 1em 7em;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  label input {
+    display: block;
+  }
+  
+  input {
+    width: 3em;
+    border: none;
+    outline: none;
+  }
+  input:hover {
+    background: salmon;
+    border: black
+  }
+  
