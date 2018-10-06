@@ -81,23 +81,23 @@ footer{
 }
 
 #btn1:hover ~ .myImage{
-  background: url("/img/cutter.jpeg");
+  background: url("../img/cutter.jpeg");
 }
 
 #btn2:hover ~ .myImage{
-  background: url("/img/shirt.jpg");
+  background: url("../img/shirt.jpg");
 }
 
 #btn3:hover ~ .myImage{
-  background: url("/img/frosted-cookie.jpg");
+  background: url("../img/frosted-cookie.jpg");
 }
 
 #btn4:hover ~ .myImage{
-  background: url("/img/fish.jpg");
+  background: url("../img/fish.jpg");
 }
 
 .myImage{
-  background: url("/img/family.jpg");
+  background: url("../img/family.jpg");
   width: 700px;
   height: 370px;
   display: block;
